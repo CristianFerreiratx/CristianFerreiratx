@@ -1,4 +1,6 @@
 ### Hola, me llamo Cristian 👋
+ Soy estudiante de primer semestre de la carrera de Ingeniería Mecatrónica en la Universidad Católica Boliviana "San Pablo"
+ Sobre mi persona puedo mencionar que soy una persona confiada en mi misma y que me gustan los retos. Entre mis pasatiempos estan el ajedrez, el piano, la música y los videojuegos.
 
 <!--
 **CristianFerreiratx/CristianFerreiratx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
