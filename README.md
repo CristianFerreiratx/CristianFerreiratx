@@ -11,4 +11,5 @@ https://github.com/CristianFerreiratx/Codigo1erSemestre
 https://github.com/CristianFerreiratx/Arduino1erSemestre
 ### REDES SOCIALES
 https://www.instagram.com/cristianbyte/
+https://www.tiktok.com/@cristian.ferreira15
 
